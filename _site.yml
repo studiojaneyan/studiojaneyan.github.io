@@ -1,0 +1,7 @@
+name: "Website"
+output_dir: "."
+navbar:
+  title: "Jane Yan's Github Site"
+  left:
+    - text: "Home"
+      href: index.html
