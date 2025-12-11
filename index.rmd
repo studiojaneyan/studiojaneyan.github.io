@@ -22,13 +22,6 @@ body {
 The abstraction (forms) includes definition of concept and shape of module. The model is built by the interaction of major and minor modules. The epistemology and epidemiology include association, classification, and arrangement.
 
 These three aspects are the origin of methodological advancement. For example, in causal inference, the inverse probability weighting is measuring the association by arranging the inverse of probability. The other more recent example is on the conversion from numerical data on record level to binary response on summary level. The rose to binary response or single unit, where model and theory have been constructed, create a reprise and precise in new sequence based numerical system.
-
-###
-### Link
-###
-
-  * [Artwork (2024)](http://janeyan.se)
-  * [Curriculum Vitae (2025)](CV_JY.pdf)
   
 ###
 ### Statistics Tool
