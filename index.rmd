@@ -31,19 +31,12 @@ These three aspects are the origin of methodological advancement. For example, i
 ###
   * [Analysis of Difference in Catelogue](module_diff-in-catelog.xlsx)
   
-###
-###
-### Skills
-###
-  * Proficient in data management, e.g. register data, multigenerational data
-  * Proficient in statistical analysis
-  
+
 ###
 ###
 ### Contact
 ###
   
   Jiajin Yan (Jane) <br>
-  Email: jiajin.yan@ki.se <br>
-  Telephone: +46 70 072 55 15 <br>
-  Service: data programming, statistical analysis, manuscript writing, graphic design
+  jiajin.yan@ki.se <br>
+  +46 70 072 55 15
