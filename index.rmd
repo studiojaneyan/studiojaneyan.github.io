@@ -33,8 +33,17 @@ These three aspects are the origin of methodological advancement. For example, i
   
 ###
 ###
+### Skills
+###
+  * Proficient in data management, e.g. register data, multigenerational data
+  * Proficient in statistical analysis
+  
+###
+###
 ### Contact
 ###
-
-  Jiajin Yan (Jane), MSc. <br>
-  jiajin.yan@ki.se
+  
+  Jiajin Yan (Jane) <br>
+  Email: jiajin.yan@ki.se <br>
+  Telephone: +46 70 072 55 15 <br>
+  Service: data programming, statistical analysis, manuscript writing, graphic design
