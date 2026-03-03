@@ -29,13 +29,4 @@ These three aspects are the origin of methodological advancement. For example, i
 ###
 ### Statistics Tool
 ###
-  * [Analysis of Difference in Catelogue](module_diff-in-catelog.xlsx)
-  
-
-###
-###
-### Contact
-###
-  
-  Jiajin Yan (Jane) <br>
-  jiajin.yan@ki.se
+  * [Analysis of Difference in Catalogue](module_diff-in-catelog.xlsx)
