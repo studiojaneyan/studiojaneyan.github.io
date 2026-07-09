@@ -29,11 +29,9 @@ navbar:
       menu:
         - text: "Blog"
           href: blog.html
-        - text: "Photography"
-          href: photography.html
-        - text: "Writing"
-          href: writing.html
-        - text: "Archived works 2024-2025"
+        - text: "Artworks"
+          href: artworks.html
+        - text: "Archived works"
           href: https://janeyan.se
 output:
   html_document:

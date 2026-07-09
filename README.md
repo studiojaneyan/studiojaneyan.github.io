@@ -15,8 +15,8 @@ its heading — content to be added.
 | `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
 | `research.Rmd` | Research page (bullet links to Current, Statistical works, Publications) |
 | `current.Rmd`, `modeling-works.Rmd`, `publications.Rmd` | Research subpages |
-| `studio.Rmd` | Studio page (bullet links to Blog, Photography, Writing, archived works) |
-| `blog.Rmd`, `photography.Rmd`, `writing.Rmd` | Studio subpages |
+| `studio.Rmd` | Studio page (bullet links to Blog, Artworks, archived works) |
+| `blog.Rmd`, `artworks.Rmd` | Studio subpages |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |
 | `nav-dropdown.html` | Script making the About/Studio dropdowns click through to their pages |
 
