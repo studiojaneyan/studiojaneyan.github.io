@@ -5,10 +5,10 @@ navbar:
   title: "Jane's Github"
   left:
     - text: "About"
-      href: index.html
+      href: about.html
       menu:
         - text: "Home"
-          href: home.html
+          href: index.html
         - text: "CV"
           href: cv.html
         - text: "Profiles"

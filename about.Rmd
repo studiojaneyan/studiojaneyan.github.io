@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+- [Home](index.html)
+- [CV](cv.html)
+- [Profiles](profiles.html)
+- [Contact](contact.html)

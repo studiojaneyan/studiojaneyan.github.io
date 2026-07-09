@@ -10,8 +10,9 @@ its heading — content to be added.
 | File | Purpose |
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
-| `index.Rmd` | About page (site landing page; links to the four subpages) |
-| `home.Rmd`, `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
+| `index.Rmd` | Home page (site landing page) |
+| `about.Rmd` | About page (bullet links to Home, CV, Profiles, Contact) |
+| `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
 | `publications.Rmd` | Publications page |
 | `other-activities.Rmd` | Other activities page |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |
