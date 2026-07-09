@@ -13,7 +13,8 @@ its heading — content to be added.
 | `index.Rmd` | Home page (site landing page) |
 | `about.Rmd` | About page (bullet links to Home, CV, Profiles, Contact) |
 | `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
-| `publications.Rmd` | Publications page |
+| `research.Rmd` | Research page (bullet links to Current, Statistical works, Publications) |
+| `current.Rmd`, `statistical-works.Rmd`, `publications.Rmd` | Research subpages |
 | `studio.Rmd` | Studio page (bullet links to Blog, Photography, Writing, archived works) |
 | `blog.Rmd`, `photography.Rmd`, `writing.Rmd` | Studio subpages |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |

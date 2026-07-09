@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+- [Current](current.html)
+- [Statistical works](statistical-works.html)
+- [Publications](publications.html)

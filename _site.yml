@@ -15,8 +15,15 @@ navbar:
           href: profiles.html
         - text: "Contact"
           href: contact.html
-    - text: "Publications"
-      href: publications.html
+    - text: "Research"
+      href: research.html
+      menu:
+        - text: "Current"
+          href: current.html
+        - text: "Statistical works"
+          href: statistical-works.html
+        - text: "Publications"
+          href: publications.html
     - text: "Studio"
       href: studio.html
       menu:
