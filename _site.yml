@@ -8,8 +8,8 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
-    - text: "Other"
-      href: other.html
+    - text: "Profiles"
+      href: profiles.html
 output:
   html_document:
     css: styles.css
