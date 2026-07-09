@@ -17,8 +17,8 @@ navbar:
           href: contact.html
     - text: "Publications"
       href: publications.html
-    - text: "Other activities"
-      href: other-activities.html
+    - text: "Studio"
+      href: studio.html
 output:
   html_document:
     css: styles.css

@@ -14,7 +14,7 @@ its heading — content to be added.
 | `about.Rmd` | About page (bullet links to Home, CV, Profiles, Contact) |
 | `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
 | `publications.Rmd` | Publications page |
-| `other-activities.Rmd` | Other activities page |
+| `studio.Rmd` | Studio page (personal and creative work) |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |
 | `nav-dropdown.html` | Script making the About dropdown click through to index |
 
