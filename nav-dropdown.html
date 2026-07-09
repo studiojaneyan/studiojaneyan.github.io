@@ -1,0 +1,12 @@
+<script>
+// Make the About navbar entry behave as a real link (to the bullet list on
+// index.html) while its dropdown opens on hover via CSS. Without this,
+// Bootstrap hijacks the click to toggle the menu instead of navigating.
+document.addEventListener("DOMContentLoaded", function () {
+  var toggle = document.querySelector(".navbar .dropdown > a.dropdown-toggle");
+  if (toggle) {
+    toggle.setAttribute("href", "index.html");
+    toggle.removeAttribute("data-toggle");
+  }
+});
+</script>

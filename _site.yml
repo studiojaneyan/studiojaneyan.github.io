@@ -6,10 +6,21 @@ navbar:
   left:
     - text: "About"
       href: index.html
+      menu:
+        - text: "Home"
+          href: home.html
+        - text: "CV"
+          href: cv.html
+        - text: "Profiles"
+          href: profiles.html
+        - text: "Contact"
+          href: contact.html
     - text: "Publications"
       href: publications.html
-    - text: "Profiles"
-      href: profiles.html
+    - text: "Other activities"
+      href: other-activities.html
 output:
   html_document:
     css: styles.css
+    include:
+      after_body: nav-dropdown.html

@@ -4,5 +4,5 @@ title: "About"
 
 - [Home](home.html)
 - [CV](cv.html)
-- [Biosketch](biosketch.html)
+- [Profiles](profiles.html)
 - [Contact](contact.html)

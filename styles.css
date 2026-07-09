@@ -7,3 +7,9 @@ body {
 a {
   color: #0000ee;
 }
+
+/* Open the About dropdown on mouse hover (Bootstrap default is click) */
+.navbar .dropdown:hover > .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}

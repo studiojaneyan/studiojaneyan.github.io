@@ -11,10 +11,11 @@ its heading — content to be added.
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
 | `index.Rmd` | About page (site landing page; links to the four subpages) |
-| `home.Rmd`, `cv.Rmd`, `biosketch.Rmd`, `contact.Rmd` | About subpages |
+| `home.Rmd`, `cv.Rmd`, `profiles.Rmd`, `contact.Rmd` | About subpages (Profiles holds the ORCID and Google Scholar links) |
 | `publications.Rmd` | Publications page |
-| `profiles.Rmd` | Profiles page (profile links) |
+| `other-activities.Rmd` | Other activities page |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |
+| `nav-dropdown.html` | Script making the About dropdown click through to index |
 
 ## How to edit
 
